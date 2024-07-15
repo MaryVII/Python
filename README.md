@@ -8,4 +8,5 @@
     </ol>
   </li>
   <li>String Indexing & Python Data Structure</li>
+  <li>Conditional Statements, Loop, Count & Function</li>
 </ol>
