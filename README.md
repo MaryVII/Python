@@ -5,4 +5,4 @@
 3. String Indexing & Python Data Structure
 4. Conditional Statements, Loop, Count & Function
 5. Libraries for Python
-6. Numpy Library
+6. Numpy & Matplot Libraries
